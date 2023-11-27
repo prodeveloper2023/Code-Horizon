@@ -23,7 +23,7 @@ Here are 3 screenshot showing top to bottom of the page:
 
 
 ## Credits
-MDN Documentation
+MDN Documentation, CSS tricks.
 
 ## License
 Not used any license yet.
