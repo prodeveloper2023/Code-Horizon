@@ -42,7 +42,7 @@ body h1{
 position: relative;
 
 }
-.container .text-container{
+.text-container{
 
   position: absolute;
   bottom: 10%;
@@ -91,7 +91,7 @@ div h2{
   height: 750px;
 }
 .vertical-line3 { 
-  padding-right: 220px;
+  padding-left: 210px;
   border-left: 2px solid black;
   height: 100px;
 }
@@ -154,7 +154,7 @@ main p {
 
 
 .contact-item{
-
+  
  display: grid;
  grid-template-columns: auto auto auto auto;
   width: 72%;
@@ -178,8 +178,9 @@ p {
 }
 
 
-@media (max-width: 600px) {
+@media only screen and (max-width: 606px) {
 
   
-
   }
+
+  
