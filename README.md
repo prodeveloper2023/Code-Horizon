@@ -1,7 +1,7 @@
 # Code-Horizon
 
 ## Description
-A portfolio site has beeen created to showcase skills and projects. The page presents name and links to sections about me, my work, and how to contact you When one of the links in the navigation is clicked then the UI scrolls to the corresponding section. When viewing the section about my work then the section contains titled images of your applications and presented with the my first application then that application's image is larger in size than the others. When images of the applications are clicked then the user is taken to that deployed application. Media quaries is used to make the page responsive to all media devices.
+A portfolio site has beeen created to showcase skills and projects using Html, Css flex, grid and media quaries. The page presents name and links to sections about me, my work, and how to contact you When one of the links in the navigation is clicked then the UI scrolls to the corresponding section. When viewing the section about my work then the section contains titled images of your applications and presented with the my first application then that application's image is larger in size than the others. When images of the applications are clicked then the user is taken to that deployed application. Media quaries is used to make the page responsive to all media devices.
 
 ## Installation
 
@@ -17,9 +17,9 @@ A portfolio site has beeen created to showcase skills and projects. The page pre
 
 ## Usage 
 Here are 3 screenshot showing top to bottom of the page:
-    ![Top of page](assets/images/screenshot-top-of-page.png)
-    ![bottom of page](assets/images/screenshot-middle-of-page.png)
-    ![middle of page](assets/images/screenshot-bottom-of-page.png)
+    ![Top of page](https://github.com/prodeveloper2023/Code-Horizon/blob/main/assets/images/screenshot%20top%20of%20page.png)
+    ![bottom of page](https://github.com/prodeveloper2023/Code-Horizon/blob/main/assets/images/screenshot%20middle%20of%20page.png)
+    ![middle of page](https://github.com/prodeveloper2023/Code-Horizon/blob/main/assets/images/screenshot%20bottom%20of%20page.png)
 
 
 ## Credits
